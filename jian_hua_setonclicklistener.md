@@ -59,4 +59,4 @@ view.setOnClickListener() { toast("Click") }
 view.setOnClickListener { toast("Click") }
 ```
 
-比原始的Java代码简短了5倍多，并且更加容易理解它所做的事情。非常让人影响深刻。
+比原始的Java代码简短了5倍多，并且更加容易理解它所做的事情。让人印象非常深刻。
